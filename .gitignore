@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+dask-worker-space/
+seasonalDryingRatios.ipynb
+skewT_ERA5vsERAI.ipynb
+topography.ipynb
